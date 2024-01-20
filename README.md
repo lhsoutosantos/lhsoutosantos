@@ -1,7 +1,7 @@
 # lhsoutosantos
 
-👋 Olá! Eu sou Lucas Santos, um estudante animado de ADS;
-
+👋 Olá! Eu sou Lucas Santos, um estudante de Analise e Desenvolvimento de Sistemas;
+ 
 ## Sobre Mim
 
 - 🎓 Atualmente estudando ADS 1/4 na Unintése;
@@ -25,7 +25,7 @@
 ## Contato
 
 - 📧 Email: lhsouto.santos@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/lucas-santos-829b06186/
+- 💼 LinkedIn: https://www.linkedin.com/in/lhsoutosantos/
 - 🐦 Instagram: https://www.instagram.com/lhsouto_santos/
 
 ## Estatísticas do GitHub
