@@ -1,10 +1,10 @@
 # lhsoutosantos
 
-👋 Olá! Eu sou Lucas Santos, um estudante de Analise e Desenvolvimento de Sistemas;
+👋 Olá! Eu sou Lucas Santos, um estudante de Engenharia de software;
  
 ## Sobre Mim
 
-- 🎓 Atualmente estudando ADS 1/4 na Unintése;
+- 🎓 Engenharia de software 1/8;
 - 💻 Apaixonado por projetos, programação, desenvolvimento e tecnologias;
 - 🌱 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 - 🤝 Aberto a colaborações e projetos interessantes;
